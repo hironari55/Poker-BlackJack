@@ -1,0 +1,8 @@
+parameters:
+  excludePaths:
+      - vendor/*
+  fileExtensions:
+      - php
+  level: 5
+  paths:
+    - ./
